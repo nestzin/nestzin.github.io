@@ -78,7 +78,7 @@ h6 {
 p {
 	font-size: 15px;
 	font-family: "Mulish", sans-serif;
-	color: #360808;
+	color: #ffffff;
 	font-weight: 400;
 	line-height: 25px;
 	margin: 0 0 15px 0;
@@ -134,7 +134,7 @@ ol {
 	top: -6px;
 	height: 32px;
 	width: 4px;
-	background: #330505;
+	background: #ffffff;
 	content: "";
 }
 
